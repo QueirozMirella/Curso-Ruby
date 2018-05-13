@@ -1,0 +1,12 @@
+curso
+alura
+ciencia
+computacao
+matematica
+professor
+aluno
+uenf
+ruby
+rails
+faculdade
+sofrimento
